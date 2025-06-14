@@ -17,3 +17,4 @@ D:\Top Secret\IT STEP\AspNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\refi
 D:\Top Secret\IT STEP\AspNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.pdb
 D:\Top Secret\IT STEP\AspNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.genruntimeconfig.cache
 D:\Top Secret\IT STEP\AspNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\ref\DesignPatterns.dll
+D:\Top Secret\IT STEP\AspNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.sourcelink.json
