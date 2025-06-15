@@ -34,3 +34,23 @@ Second note
 fefefffffffff
 ---------------
 
+MyNote
+15.06.2025 15:12:14
+
+loremfeojfepjfew f rojf prjf rpojfoprj fporjfw pjrf r
+
+#note #check #new 
+---------------
+
+Second note
+15.06.2025 15:12:14
+
+fefefffffffff
+---------------
+
+- name: Vlad
+- phone: +380000
+- alt phone: None
+- email: vlad@gmail
+- description: My contact
+
